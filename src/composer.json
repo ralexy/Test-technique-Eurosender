@@ -1,0 +1,9 @@
+{
+    "require": {
+        "mongodb/mongodb": "1.15.0",
+        "guzzlehttp/guzzle": "^7.5"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    }
+}
